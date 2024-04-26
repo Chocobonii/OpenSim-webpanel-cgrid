@@ -1,0 +1,16 @@
+--2024-03-26 19:43:48--  https://www.dropbox.com/scl/fi/qfay2lwut4hw8jzx9mnjz/lenote.png?rlkey=7qejatjyezs7rdku706oq8b0x
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.4.18, 2620:100:6019:18::a27d:412
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.4.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uce44505bc78113a89070695f65f.dl.dropboxusercontent.com/cd/0/inline/CP2elmtDUHHgNB9Ng8VQ4LsitwwBwyOLC9RKtYHB-Z89NGLQC2hbv3r_GxXXCn02S7Ag_LtmcikSm_PUS7C56Czx-uRoh9dnxIzYf6326oaRQyUdv-Jht-YkRteRsaQk69GDQajGN85Ole4YxCLJn12z/file# [following]
+--2024-03-26 19:43:48--  https://uce44505bc78113a89070695f65f.dl.dropboxusercontent.com/cd/0/inline/CP2elmtDUHHgNB9Ng8VQ4LsitwwBwyOLC9RKtYHB-Z89NGLQC2hbv3r_GxXXCn02S7Ag_LtmcikSm_PUS7C56Czx-uRoh9dnxIzYf6326oaRQyUdv-Jht-YkRteRsaQk69GDQajGN85Ole4YxCLJn12z/file
+Resolving uce44505bc78113a89070695f65f.dl.dropboxusercontent.com (uce44505bc78113a89070695f65f.dl.dropboxusercontent.com)... 162.125.11.15, 2620:100:6050:15::a27d:b0f
+Connecting to uce44505bc78113a89070695f65f.dl.dropboxusercontent.com (uce44505bc78113a89070695f65f.dl.dropboxusercontent.com)|162.125.11.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 490535 (479K) [image/png]
+Saving to: ‘lenote.png?rlkey=7qejatjyezs7rdku706oq8b0x’
+
+                 lenote.png?rlkey=   0%[                                                                 ]       0  --.-KB/s               lenote.png?rlkey=7qejatjyezs7rdku7 100%[================================================================>] 479.04K  --.-KB/s    in 0.05s   
+
+2024-03-26 19:43:49 (9.04 MB/s) - ‘lenote.png?rlkey=7qejatjyezs7rdku706oq8b0x’ saved [490535/490535]
+

@@ -1,0 +1,109 @@
+/* Add a black background color to the top navigation */
+* { margin: 0; padding: 0;}
+
+.topnav {
+    background-color: #000000;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 16px 16px;
+    left: 0%;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #2c2c2c12;
+    color: rgb(106, 255, 200);
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  body {
+    background-color: #1a1a1a;
+    background-image: url("https://st.depositphotos.com/5413744/59972/v/600/depositphotos_599726812-stock-video-loop-rotation-colorful-star-particles.jpg");
+  }
+
+
+  .footer {
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    left: 0%;
+    background-color: #000000;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .footer p {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 4px 16px;
+    left: 0%;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .footer a {
+    color: #ffffff;
+  }
+  
+  .row {
+    background-color: #000000;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .row * {
+    float: left;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+  }
+
+  * {
+    font-family: Verdana, sans-serif;
+  }
+
+  .innercontent {
+    background-color: #ffffff0f;
+    left: 64px;
+    right: 64px;
+    width: 95%;
+    margin: auto;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+  #letable {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #letable td, #letable th {
+    border: 1px solid #060012b3;
+    padding: 8px;
+  }
+  
+  #letable tr:nth-child(even){background-color: #000212db;}
+  
+  #letable tr:hover {background-color: #000000;}
+  
+  #letable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #0000009d;
+  }
